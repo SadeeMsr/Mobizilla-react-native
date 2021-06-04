@@ -1,7 +1,7 @@
 export default [{
   name: 'Model S',
   tagline: 'Starting at $69,420',
-  image: require('../../assets/images/1400935880321.jpeg'),
+  image: require('../../assets/images/Model3.jpeg'),
 }, {
   name: 'Model 3',
   tagline: 'Order Online for',
