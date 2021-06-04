@@ -34,13 +34,13 @@ const Device = (props) => {
           }}
         />
 
-        <StyledButton
+        {/* <StyledButton
           type="secondary"
           content={"Existing Inventory"}
           onPress={() => {
             console.warn("Existing Inventory was pressed");
           }}
-        />
+        /> */}
       </View>
 
     </View>
