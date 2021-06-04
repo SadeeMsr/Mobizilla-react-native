@@ -17,4 +17,8 @@ export default [{
   tagline: 'Order Online for',
   taglineCTA: 'Touchless Delivery',
   image: require('../../assets/images/railRoadApartment.jpg'),
+}, { name: 'Garden Apartment',
+tagline: 'Order Online for',
+taglineCTA: 'Touchless Delivery',
+image: require('../../assets/images/garden.jpg'),
 }];
