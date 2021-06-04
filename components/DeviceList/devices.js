@@ -1,20 +1,20 @@
 export default [{
   name: 'Duplex Apartment',
   tagline: 'Starting at $69,420',
-  image: require('../../assets/images/1400935880321.jpeg'),
+  image: require('../../assets/images/duplex.jpg'),
 }, {
-  name: 'Model 3',
+  name: 'Convertible Studio',
   tagline: 'Order Online for',
   taglineCTA: 'Touchless Delivery',
-  image: require('../../assets/images/Model3.jpeg'),
+  image: require('../../assets/images/convertibleStudio.jpg'),
 }, {
-  name: 'Model X',
+  name: 'ALcove Studio',
   tagline: 'Order Online for',
   taglineCTA: 'Touchless Delivery',
-  image: require('../../assets/images/ModelX.jpeg'),
+  image: require('../../assets/images/alcoveStudio.jpg'),
 }, {
-  name: 'Model Y',
+  name: 'Railroad Apartment',
   tagline: 'Order Online for',
   taglineCTA: 'Touchless Delivery',
-  image: require('../../assets/images/ModelY.jpeg'),
+  image: require('../../assets/images/railRoadApartment.jpg'),
 }];
