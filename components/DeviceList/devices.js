@@ -1,5 +1,5 @@
 export default [{
-  name: 'Model S',
+  name: 'Duplex Apartment',
   tagline: 'Starting at $69,420',
   image: require('../../assets/images/1400935880321.jpeg'),
 }, {
